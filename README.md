@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenbhankher&label=Profile%20views&color=0e75b6&style=flat" alt="naveenbhankher" /> </p>
+<img align="right"alt="coding"width="300"scr="https://images.app.goo.gl/wpxCkxX3qrysiAJd9"
+<p align="left"> <imgsrc="https://komarev.com/ghpvc/?username=naveenbhankher&label=Profile%20views&color=0e75b6&style=flat" alt="naveenbhankher" /> </p>
 
 <p align="left"> <a href="https://twitter.com/naveenbhankher" target="blank"><img src="https://img.shields.io/twitter/follow/naveenbhankher?logo=twitter&style=for-the-badge" alt="naveenbhankher" /></a> </p>
 
